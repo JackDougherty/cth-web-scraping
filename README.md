@@ -1,2 +1,2 @@
 # cth-web-scraping
- with Maya and Gared
+text and images
