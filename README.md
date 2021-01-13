@@ -1,10 +1,15 @@
 # cth-web-scraping
 text and images
 
-## Ready for Review
+## Ready for Review and Edits (by Jan 21st)
+
+## Theme Content
 
 https://jackdougherty.github.io/cth-web-scraping/architecture.html
 
+https://jackdougherty.github.io/cth-web-scraping/freedom.html
+
+https://jackdougherty.github.io/cth-web-scraping/leisure.html
 
 https://jackdougherty.github.io/cth-web-scraping/maritime.html
 
