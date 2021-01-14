@@ -9,7 +9,7 @@ The scope of my work for this project is to migrate existing CTH content to a ne
 
 ... <a href="https://www.eliwhitney.org/" target="_blank">Visit</a> the Eli Whitney Museum and Workshop...
 
-While CTH can update its content at any time on the new map platform, it will be easier for you to review the pages below (and edit any links you wish) prior to when I migrate them after Jan 21st. I can review how to review and edit efficiently during our meeting.
+While CTH can update its content at any time on the new map platform, it will be easier for you to review the pages below (and edit any links you wish) prior to when I migrate them after Jan 21st. I can describe how to review and edit efficiently during our meeting.
 
 ## Theme text descriptions and links
 
@@ -18,6 +18,8 @@ https://jackdougherty.github.io/cth-web-scraping/architecture.html
 https://jackdougherty.github.io/cth-web-scraping/freedom.html
 
 https://jackdougherty.github.io/cth-web-scraping/leisure.html
+
+https://jackdougherty.github.io/cth-web-scraping/literary.html
 
 https://jackdougherty.github.io/cth-web-scraping/maritime.html
 
