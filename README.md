@@ -94,3 +94,7 @@ https://jackdougherty.github.io/cth-web-scraping/wallingford-cemetery.html
 - Rev. Samuel Whittelsey: ...to serve as a colleague pastor to the aging <a href="https://conntours.oncell.com/en/5-rev-samuel-street-241375.html" target="_blank">Reverend Samuel Street</a> in 1710
 - John Hall: The committee ultimately decided on the <a href="https://conntours.oncell.com/en/13-rev-samuel-whittelsey-241383.html" target="_blank">Reverend Samuel Whittelsey</a>
 - William P. Smith: ...He is buried in the back of the cemetery with other Civil War soldiers, just two rows in front of the <a href="https://conntours.oncell.com/en/civil-war-circle-241794.html" target="_blank">Civil War Circle</a>.
+
+NOTE about Wallingford cemetery locations: I will do my best to select latitude and longitude coordinates for grave markers, but these will not be precise and will appear crowded together in the interactive map, due to the nature of the hand-drawn source map shown below.
+
+![Wallingford cemetery map](wallingford-cemetery-map.jpg)
