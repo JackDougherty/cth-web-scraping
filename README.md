@@ -75,6 +75,15 @@ https://jackdougherty.github.io/cth-web-scraping/ridgefield-architecture.html
 - Cute Cottage: ...became the new rectory for <a href="https://conntours.oncell.com/en/st-stephens-church-351-main-street-202501.html" target="_blank">St. Stephen's Church</a>
 - East, West, Home's Best: ...also owned and operated the <a href="https://conntours.oncell.com/en/dress-for-success-6-catoonah-street-215045.html" target="_blank">Ridgefield Shirt Factory</a>
 
+https://jackdougherty.github.io/cth-web-scraping/ridgefield-revolution.html
+
+- Removed and did not replace links that pointed back to ConnTours site:
+- David Scott house: ...when British troops torched his neighbor -- <a href="https://conntours.oncell.com/en/st-stephens-church-351-main-street-202501.html" target="_blank">St. Stephen's Church</a>
+- Joshua King House: ...and married the daughter of the minister of the <a href="https://conntours.oncell.com/en/commonscongregational-church-207-main-street-202504.html" target="_blank">Congregational Church</a>, the beautiful Anne Ingersoll. In 1783, he started the mercantile business <a href="https://conntours.oncell.com/en/king-dole-store-258-main-street-208057.html" target="_blank">King and Dole</a>
+- Commons/Congregational Church: ...part of the Common green, would be given to the first religious organization who appointed <a href="https://conntours.oncell.com/en/hauley-house-236-main-street-202503.html" target="_blank">Reverend Thomas Hauley</a> as its first pastor in 1713.
+- King & Dole Store: ...Joshua King and James Dole, started the mercantile business King & Dole across the street from <a href="https://conntours.oncell.com/en/joshua-king-house-267-main-street-202502.html" target="_blank">King's home</a> on Main Street.
+- Keeler Tavern Museum: During the American Revolution, as the British marched down Ridgefield's main street, they burned <a href="https://conntours.oncell.com/en/st-stephens-church-351-main-street-202501.html" target="_blank">St. Stephen's Episcopal Church</a>
+
 
 https://jackdougherty.github.io/cth-web-scraping/wallingford-cemetery.html
 
