@@ -3,7 +3,7 @@
 - Text descriptions and images here on Github
 - see other details in this [Google Sheet](https://docs.google.com/spreadsheets/d/1IorEpqJz7V7rDZOtYXP59VmW1w8PydrwNS022Crj1B0/edit#gid=1270195893)
 
-## Ready for Review and Edits (by Jan 21st)
+## Ready for Review and Edits (by Jan 22nd)
 
 The scope of my work for this project is to migrate existing CTH content to a new web platform. In several pages there are occasionally some old broken links such as this one in [War of 1812](https://jackdougherty.github.io/cth-web-scraping/war-of-1812.html)
 
@@ -11,7 +11,7 @@ The scope of my work for this project is to migrate existing CTH content to a ne
 
 Furthermore below, see notes where I removed but did not replace links that point back to the old ConnTours site that we are migrating away from. After I migrate your content to the new platform, you can add new "internal" links based on your new URL.
 
-While CTH can update its content at any time on the new map platform, it will be easier for you to review the pages below (and edit any links you wish) prior to when I migrate them after Jan 21st. I can describe how to review and edit efficiently during our meeting.
+While CTH can update its content at any time on the new map platform, it will be easier for you to review the pages below (and edit any links you wish) prior to when I migrate them after Jan 22nd. I can describe how to review and edit efficiently during our meeting.
 
 ## Theme text descriptions and links
 
@@ -36,7 +36,9 @@ https://jackdougherty.github.io/cth-web-scraping/war-of-1812.html
 
 https://jackdougherty.github.io/cth-web-scraping/women.html
 
-## Town and City tours to come
+## Town and City Tours
+
+NOTE: I did not create a new entry for "Hartford Literary Trail" since its 5 stops are an exact duplicate of existing entries for "Literary": The Wallace Stevens Walk, Harriet Beecher Stowe Center, The Mark Twain House & Museum, Noah Webster House, Cedar Hill Cemetery. **CTH needs to decide at our Jan 22nd meeting** if it wants me to re-create this duplicated map content.
 
 https://jackdougherty.github.io/cth-web-scraping/saybrook-fort.html
 
