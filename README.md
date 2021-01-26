@@ -51,7 +51,7 @@ https://jackdougherty.github.io/cth-web-scraping/saybrook-fort.html
 - South Cove: ...the small English garrison stationed near present-day <a href="https://conntours.oncell.com/en/guardhouse-point-214715.html" target="_blank">Guardhouse Point</a>
 - Warehouse Point: Shortly after the Pequot attack at <a href="https://conntours.oncell.com/en/cornfield-point-214714.html" target="_blank">Cornfield Point</a> and the destruction of the blockhouse at <a href="https://conntours.oncell.com/en/guardhouse-point-214715.html" target="_blank">Guardhouse Point</a>...
 
-https://jackdougherty.github.io/cth-web-scraping/ridgefield-butcher.html
+https://jackdougherty.github.io/cth-web-scraping/ridgefield-business.html
 
 - Removed and did not replace links that pointed back to ConnTours site:
 - The Land of Plenty: The <a href="https://conntours.oncell.com/en/stebbins-house-550-main-street-202497.html" target="_blank">Stebbins homestead</a> was built by Benjamin Stebbins...
@@ -95,6 +95,4 @@ https://jackdougherty.github.io/cth-web-scraping/wallingford-cemetery.html
 - John Hall: The committee ultimately decided on the <a href="https://conntours.oncell.com/en/13-rev-samuel-whittelsey-241383.html" target="_blank">Reverend Samuel Whittelsey</a>
 - William P. Smith: ...He is buried in the back of the cemetery with other Civil War soldiers, just two rows in front of the <a href="https://conntours.oncell.com/en/civil-war-circle-241794.html" target="_blank">Civil War Circle</a>.
 
-NOTE about Wallingford cemetery locations: I will do my best to select latitude and longitude coordinates for grave markers, but these will not be precise and will appear crowded together in the interactive map, due to the nature of the hand-drawn source map shown below.
-
-![Wallingford cemetery map](wallingford-cemetery-map.jpg)
+NOTE about Wallingford cemetery locations: I will do my best to select latitude and longitude coordinates for grave markers, but these will not be precise and will appear crowded together in the interactive map, due to the nature of the hand-drawn source map
