@@ -5,9 +5,7 @@
 
 ## Ready for Review and Edits (by Jan 22nd)
 
-The scope of my work for this project is to migrate existing CTH content to a new web platform. In several pages there are occasionally some old broken links such as this one in [War of 1812](https://jackdougherty.github.io/cth-web-scraping/war-of-1812.html)
-
-... <a href="https://www.eliwhitney.org/" target="_blank">Visit</a> the Eli Whitney Museum and Workshop...
+The scope of my work for this project is to migrate existing CTH content to a new web platform. In several pages there may be some broken links, so I encourage you to arrange for a volunteer or intern to review all of your links.
 
 Furthermore below, see notes where I removed but did not replace links that point back to the old ConnTours site that we are migrating away from. After I migrate your content to the new platform, you can add new "internal" links based on your new URL.
 
